@@ -20,7 +20,7 @@ web UIs/dashboards available (i.e. to list and view resources) as well as other 
   * Cancellable creation/update/deletion operations
   * Logs, exec, and resource editor with documentation
   * Read-write / interactive (actions based on permissions)
-  * Record different namespaces to get Network Policiy advices
+  * Record different/multiple namespaces to get Network Policiy advices
 
 ## Screenshots
 
