@@ -37,8 +37,8 @@ web UIs/dashboards available (i.e. to list and view resources) as well as other 
         <td width="33%"><img src="https://raw.githubusercontent.com/kinvolk/headlamp/screenshots/screenshots/terminal.png"></td>
     </tr>
   	<tr>
-        <td width="33%"><img src="asd.PNG"></td>
-        <td width="33%"><img src="asd.png"></td>
+        <td width="33%"><img src="img/NetworkPolicyAdvisor1.PNG"></td>
+        <td width="33%"><img src="img/NetworkPolicyAdvisor2.PNG"></td>
     </tr>
 </table>
 
